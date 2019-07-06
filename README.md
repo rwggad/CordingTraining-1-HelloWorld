@@ -1,5 +1,4 @@
 # 코딩 트레이닝 책 (57 문제 정복)
-
 * 목적 : python 언어의 의해
 
 * 참고서 : 코딩트레이닝(https://book.naver.com/bookdb/book_detail.nhn?bid=10870030)
